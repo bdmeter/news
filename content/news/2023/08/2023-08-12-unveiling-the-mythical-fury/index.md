@@ -18,7 +18,7 @@ Maui, August 12, 2023 — The picturesque paradise of Maui is facing an unpreced
 
 The fires, which were ignited by a combination of dry conditions and gusty winds, have exhibited an eerie persistence, spreading across diverse terrains and shrugging off conventional firefighting tactics. Firefighters, emergency response teams, and volunteers have united in a concerted effort to battle the flames, but the fires have proven to be remarkably elusive, at times seemingly moving against the wind and leaping over firebreaks.
 
-"Maui has faced its share of wildfires, but this is unlike anything we've seen before," stated Fire Chief Kailani Silva. "It's as if the very spirit of the island is testing our resolve. We're adapting our strategies to the unique behavior of these flames, looking at historical records and local legends for insights."
+Maui has faced its share of wildfires, but this is unlike anything we've seen before," stated Fire Chief Kailani Silva. "It's as if the very spirit of the island is testing our resolve. We're adapting our strategies to the unique behavior of these flames, looking at historical records and local legends for insights.
 
 Local spiritual leaders have joined the efforts, conducting traditional ceremonies and prayers in hopes of appeasing the goddess Pele and gaining control over the fires. The intersection of science and spirituality in combatting these fires has drawn attention from around the world.
 
