@@ -1,0 +1,47 @@
+name = "BDM Theme"
+license = "MIT"
+licenselink = "https://github.com/ronibd0/bdmeter.info/blob/main/LICENSE"
+description = "The BDmeter theme Framework"
+homepage = "https://github.com/ronibd0/bdmeter.info"
+demosite = "https://news.bdmeter.info/"
+categories = [
+    "Live news",
+    "World news",
+    "US news",
+    "UK news",
+    "China news",
+    "Asia news",
+    "Africa news",
+    "Australia news",
+    "Media news",
+    "Tech news",
+    "Weather",
+    "Sports",
+    "India news",
+    "Bangladesh news", 
+    "Business",
+    "Industry",
+    "Climate",
+    "Finance",
+    "Building-material",
+    "Meatal-industry",
+    "Textile",
+    "Environment",
+    "Information",
+    "Media",
+    "Technology",
+    "Research",
+    "Human-resource",
+    "Cosmetic-industry",
+    "Plastic-industry",
+    "Electronics",
+    "Oil-gas-industry",
+    "Future",
+    "Economy",
+    "Life-style",
+    "Health"
+]
+features = ["search", "flexible", "modular"]
+[author]
+name = "Bdmeter"
+homepage = "https://news.bdmeter.info"

@@ -1,0 +1,7 @@
+baseURL = 'https://news.bdmeter.info'
+languageCode = 'en-us'
+title = 'Real-time news update'
+disableLanguages = ['zh-hans']
+
+[params]
+  canonicalUrl = 'https://news.bdmeter.info/'
