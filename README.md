@@ -59,5 +59,5 @@ TThe Bdmeter theme of [BDM Framework](https://news.bdmeter.info), live demo: [Bd
 
 - git commit -m "First commit"
 
-- git push -u origin master
+- git push --set-upstream origin main
 # news
