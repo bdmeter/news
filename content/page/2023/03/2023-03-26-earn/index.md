@@ -1,5 +1,5 @@
 ---
-title: "Earn"
+title: "Earn with news online"
 date: "2023-03-26"
 ---
 

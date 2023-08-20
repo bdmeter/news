@@ -1,11 +1,11 @@
 ---
 title: "Privacy Policy"
-date: "2023-03-17"
+date: "2023-04-17"
 ---
 
 ## Who we are
 
-We are Bdmeter, located in NYC, United States. We are one of the largest information services providers of real-time global information, technology, business, innovations, changes, ideas, thinking, and the future.
+We are Bdmeter News, located in NYC, United States. We are one of the largest information services providers of real-time global information, technology, business, innovations, changes, ideas, thinking, and the future.
 
 ## Comments
 

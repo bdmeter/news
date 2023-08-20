@@ -7,7 +7,7 @@ date: "2023-03-17"
 
 ## Our Story
 
-We are Bdmeter, We are a team of friends and most are Engineers, Technologists, Architects, Builders, and Specialists was thinking louder in last 2018 to develop something that can help people. Then we have descided to start a blogsite and we are the Authors from his own position of work. Then we have started our jouney in October 2018. We are trying to help our communities to learn something really important to develop our business, industry, socienty, environment, shelter, health, safety all together. 
+We are Bdmeter News, We are a team of Journalist and Bloggers, and News Specialists have started our jouney in June 2021. We are an organization of live news moderator, analyzer to represent news in a way means more authentic and reliable. 
 
 ## We are driven by values
 

@@ -3,7 +3,7 @@ title: "Newsletter"
 date: "2023-03-20"
 ---
 
-## Subscribe for newsletter
+## Subscribe for live news newsletter
 
 <div class="form">
     <form action="https://getform.io/f/1003cb49-edc3-4dca-9c2c-456328bd412c" method="POST">
